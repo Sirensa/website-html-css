@@ -1,0 +1,51 @@
+h1{
+
+    color: rgb(0, 0, 0);
+    font-size: 37px;
+    text-align: center;
+    font-family: BBH Sans Bartle,serif;
+    font-variant-emoji: emoji;
+    background : linear-gradient(#a9dce3,#7689de);
+    border: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    border-radius: 5px;
+    border-color: black;
+    width: 1490px;
+    height: 75px;
+    
+    
+    
+
+}
+h2{
+    color:rgb(0, 0, 0);
+    text-align: to left;
+    text-decoration: underline;
+    font-family: serif;
+    background: linear-gradient(lightblue,lightgrey);
+  
+    
+}
+ ol{
+    border: 5px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right :950px; ;
+    background-color:rgb(186, 191, 222);
+    opacity:0.5;
+    font-family: cursive;
+
+
+}
+
+body{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px;
+  
+}
